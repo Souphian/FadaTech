@@ -1,0 +1,17 @@
+nav {
+    background: rgba(76, 85, 94, 0.8);
+    border-bottom: 4px solid #24943e;
+}
+.fas {
+    font-size: 2rem;
+    padding-right: 1.2rem;
+}
+.pic {
+    height: 300px;
+    width: 100%;
+}
+@media only screen and (max-width:990px) {
+    .home_title {
+        display: none;
+    }
+}
